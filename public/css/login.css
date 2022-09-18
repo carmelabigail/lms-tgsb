@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,900&display=swap');
+body{
+    background: -webkit-linear-gradient(left, #50D5B7, #198753);
+    overflow: hidden;
+}
+.contact-form {
+    background: #fff;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 60px;
+    height: 610px;
+    border-radius: 15px;
+}
+.contact-form .form-control{
+    width: 100%;
+    margin-top: 1%;
+}
+.contact-image {
+    text-align: center;
+}
+.contact-image img {
+    width: 20%;
+    margin-top: 2%;
+    
+}
+.contact-form form {
+    padding: 14%;
+}
+.contact-form form .row{
+    margin-bottom: -7%;
+}
+.contact-form h2 {
+    margin-bottom: 8%;
+    margin-top: -17%;
+    text-align: center;
+    color: #198753;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 24px;
+}
+.contact-form .btnContact {
+    width: 100%;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1.5%;
+    background: #198753;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 2%;
+    height: 40px;
+}
+.btnContactSubmit
+{
+    width: 100%;
+    padding: 1.5%;
+    color: #fff;
+    background-color: #198753;
+    border: none;
+    cursor: pointer;
+    margin-top: 2%;
+}
+
+.rowl {
+    color: #198753;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 15px;
+    line-height: 24px;
+    margin-top: -30px;
+    text-align: right;
+    cursor: pointer;
+}
+
+.rowl a {
+    color: #198753;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 15px;
+    line-height: 24px;
+    margin-top: 5px;
+    text-align: right;
+    cursor: pointer;
+}
